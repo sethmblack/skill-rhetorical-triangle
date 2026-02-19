@@ -3,8 +3,8 @@ name: rhetorical-triangle
 description: 'Evaluate and improve persuasive communication through the three modes of persuasion: ethos (credibility), pathos (emotion), and logos (logic).'
 license: MIT
 metadata:
+  version: 1.0.4849
   author: sethmblack
-  version: 1.0.4848
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rhetorical-triangle-assessment
